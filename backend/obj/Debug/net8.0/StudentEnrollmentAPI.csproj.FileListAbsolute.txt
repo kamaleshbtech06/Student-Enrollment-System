@@ -1,0 +1,102 @@
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\StudentEnrollmentAPI.csproj.AssemblyReference.cache
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\StudentEnrollmentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\StudentEnrollmentAPI.AssemblyInfoInputs.cache
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\StudentEnrollmentAPI.AssemblyInfo.cs
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\StudentEnrollmentAPI.csproj.CoreCompileInputs.cache
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\StudentEnrollmentAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\StudentEnrollmentAPI.dll
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\refint\StudentEnrollmentAPI.dll
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\StudentEnrollmentAPI.pdb
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\appsettings.json
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\StudentEnrollmentAPI.staticwebassets.endpoints.json
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\StudentEnrollmentAPI.deps.json
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\StudentEnrollmentAPI.runtimeconfig.json
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\StudentEnrollmentAPI.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\StudentEnrollmentAPI.pdb
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\Google.Protobuf.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\MySql.Data.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\ZstdSharp.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\project\Student Entrollment\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\scopedcss\bundle\StudentEnrollmentAPI.styles.css
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\swae.build.ex.cache
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\StudentE.675EAFF9.Up2Date
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\StudentEnrollmentAPI.genruntimeconfig.cache
+C:\project\Student Entrollment\backend\obj\Debug\net8.0\ref\StudentEnrollmentAPI.dll
+C:\project\task06\backend\bin\Debug\net8.0\appsettings.json
+C:\project\task06\backend\bin\Debug\net8.0\StudentEnrollmentAPI.staticwebassets.endpoints.json
+C:\project\task06\backend\bin\Debug\net8.0\StudentEnrollmentAPI.deps.json
+C:\project\task06\backend\bin\Debug\net8.0\StudentEnrollmentAPI.runtimeconfig.json
+C:\project\task06\backend\bin\Debug\net8.0\StudentEnrollmentAPI.dll
+C:\project\task06\backend\bin\Debug\net8.0\StudentEnrollmentAPI.pdb
+C:\project\task06\backend\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\project\task06\backend\bin\Debug\net8.0\Google.Protobuf.dll
+C:\project\task06\backend\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\project\task06\backend\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\project\task06\backend\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\project\task06\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\project\task06\backend\bin\Debug\net8.0\MySql.Data.dll
+C:\project\task06\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\project\task06\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\project\task06\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\project\task06\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\project\task06\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\project\task06\backend\bin\Debug\net8.0\ZstdSharp.dll
+C:\project\task06\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\project\task06\backend\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\project\task06\backend\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\project\task06\backend\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\project\task06\backend\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\project\task06\backend\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\project\task06\backend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\project\task06\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\project\task06\backend\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\project\task06\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\project\task06\backend\obj\Debug\net8.0\StudentEnrollmentAPI.csproj.AssemblyReference.cache
+C:\project\task06\backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\project\task06\backend\obj\Debug\net8.0\StudentEnrollmentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\task06\backend\obj\Debug\net8.0\StudentEnrollmentAPI.AssemblyInfoInputs.cache
+C:\project\task06\backend\obj\Debug\net8.0\StudentEnrollmentAPI.AssemblyInfo.cs
+C:\project\task06\backend\obj\Debug\net8.0\StudentEnrollmentAPI.csproj.CoreCompileInputs.cache
+C:\project\task06\backend\obj\Debug\net8.0\StudentEnrollmentAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\project\task06\backend\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\project\task06\backend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\project\task06\backend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\project\task06\backend\obj\Debug\net8.0\scopedcss\bundle\StudentEnrollmentAPI.styles.css
+C:\project\task06\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\project\task06\backend\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\project\task06\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\project\task06\backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\project\task06\backend\obj\Debug\net8.0\swae.build.ex.cache
+C:\project\task06\backend\obj\Debug\net8.0\StudentE.675EAFF9.Up2Date
+C:\project\task06\backend\obj\Debug\net8.0\StudentEnrollmentAPI.dll
+C:\project\task06\backend\obj\Debug\net8.0\refint\StudentEnrollmentAPI.dll
+C:\project\task06\backend\obj\Debug\net8.0\StudentEnrollmentAPI.pdb
+C:\project\task06\backend\obj\Debug\net8.0\StudentEnrollmentAPI.genruntimeconfig.cache
+C:\project\task06\backend\obj\Debug\net8.0\ref\StudentEnrollmentAPI.dll
